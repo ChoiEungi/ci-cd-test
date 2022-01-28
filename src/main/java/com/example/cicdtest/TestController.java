@@ -13,7 +13,7 @@ public class TestController {
 
     @GetMapping("/test")
     public String test() {
-        return "ci-cd test";
+        return "ci-cd test234";
     }
 
 }
